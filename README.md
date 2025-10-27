@@ -2,12 +2,12 @@
 
 <!-- 🌈 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AtanuMaity&fontAlign=50&fontAlignY=40&color=gradient&desc=Web%20devlopment&descAlign=50&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AtanuMaity&fontAlign=50&fontAlignY=40&color=gradient&desc=Web%20Devloper&descAlign=50&descAlignY=55" alt="header" />
 </p>
 
 <!-- ✍️ Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;Discord+Bot+Developer;Open+Source+Contributor;Always+Learning+and+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;Web+Developer;Open+Source+Contributor;Always+Learning+and+Creating" alt="Typing SVG" />
 </p>
 
 <!-- 💫 Welcome message -->
